@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil!
 
-<!--
-**emyssn/emyssn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Emilly
 
-Here are some ideas to get you started:
+* Estou estudando na Alura;
+* Estou me desenvolvendo na linguagem JavaScript;
+* Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Caso queira entrar em contato comigo:📫
+
+  emys.alvesn@gmail.com
+
+![](https://tenor.com/pt-BR/view/marshall-eriksen-happy-smile-himym-how-i-met-your-mother-gif-16435489)
+
+  
